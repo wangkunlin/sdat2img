@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sdat2img:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sdat2img_jar</output-path>
+    <root id="archive" name="sdat2img.jar">
+      <element id="module-output" name="sdat2img" />
+    </root>
+  </artifact>
+</component>
